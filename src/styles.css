@@ -11,7 +11,7 @@ body {
 .navbar {
     background-color: #F55A5A;
     color: #FFF;
-    padding: 1.5rem 0;
+    padding: 1.3rem 0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -26,4 +26,58 @@ body {
     margin-left: 0.35rem;
     line-height: 20px;
 }
+
+/* Main */
+.main {
+    padding: 25px;
+    display: flex;
+}
+
+.image img {
+    height: 220px;
+    width: 130px;
+}
+
+.right-content {
+    padding-left: 1.5rem;
+}
+
+.right-content i{
+    color: #F55A5A;
+    padding-right: 3px;
+}
+
+.first-section {
+    padding-bottom: .25rem;
+    margin-top: .85rem;
+}
+
+.country {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding-right: 1.3rem;
+    font-weight: 300;
+}
+
+.link {
+    color: #918E9B;
+}
+
+.heading-one {
+    padding-bottom: 1rem;
+    font-weight: 600;
+}
+
+.heading-five {
+    padding-bottom: .75rem;
+}
+
+.hr  hr {
+    border: none;
+    background-color: #F5F5F5;
+    height: 1px;
+    margin: 20px;
+}
+
+
 
