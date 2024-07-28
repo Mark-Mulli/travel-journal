@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.navbar {
+    background-color: #F55A5A;
+    color: #FFF;
+    padding: 1.5rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar i {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.navbar span {
+    margin-left: 0.35rem;
+    line-height: 20px;
+}
+
